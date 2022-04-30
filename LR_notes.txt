@@ -1,0 +1,5 @@
+Quick notes:
+
+- accuracy: 98.45
+- the solver parameter must take the "lbfgs" value cuz it provides the best result possible
+- the same thing for the penalty parameter must take the value of "l2"

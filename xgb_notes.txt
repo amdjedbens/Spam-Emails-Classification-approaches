@@ -1,0 +1,6 @@
+Quick notes:
+
+- accuracy: 96.71
+- the eval_metric parameter uses the multiclass logloss
+- the fit function takes arround 6 secondes
+- Multinomial Naive Bayes takes 0.04 secondes and it has almost the same accuracy but xgboost outperform it
